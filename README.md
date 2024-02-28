@@ -1,10 +1,10 @@
 <div align="center">
 
-# Python API Challenge
+# SQL Challenge
 
 [![license][license]][license-url]
 [![python][python]][python-url]
-[![jupyter][jupyter]][jupyter-url]
+[![postgres][postgres]][postgres-url]
 
 </div>
 
@@ -25,16 +25,14 @@
 1.  Clone the repo
 
     ```sh
-    git clone https://github.com/manc1n1/python-api-challenge.git
+    git clone https://github.com/manc1n1/sql-challenge.git
     ```
 
-2.  Change directories to `python-api-challenge`
+2.  Change directories to `sql-challenge`
 
     ```sh
-    cd python-api-challenge
+    cd sql-challenge
     ```
-
-3.  Open the `Jupyter Notebook` file `main.ipynb`
 
 ## Usage
 
@@ -64,11 +62,11 @@ Don't forget to give the project a star! Thanks again!
 
 ## Credits
 
-[Starter Code Download](https://static.bc-edx.com/data/dl-1-2/m6/lms/starter/Starter_Code.zip)
+[Starter Code Download](https://static.bc-edx.com/data/dl-1-2/m9/lms/starter/Starter_Code.zip)
 
-[license]: https://img.shields.io/github/license/manc1n1/python-api-challenge.svg?style=for-the-badge
-[license-url]: https://github.com/manc1n1/python-api-challenge/blob/master/LICENSE
+[license]: https://img.shields.io/github/license/manc1n1/sql-challenge.svg?style=for-the-badge
+[license-url]: https://github.com/manc1n1/sql-challenge/blob/master/LICENSE
 [python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org/
-[jupyter]: https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-[jupyter-url]: https://jupyter.org/
+[postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[postgres-url]: https://www.postgresql.org/
